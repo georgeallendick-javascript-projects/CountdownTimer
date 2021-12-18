@@ -3,4 +3,4 @@
   - HTML
   - CSS
   - Javascript
-Built following this tutorial: https://youtu.be/8GPPJpiLqHk
+- Built following this tutorial: https://youtu.be/8GPPJpiLqHk
